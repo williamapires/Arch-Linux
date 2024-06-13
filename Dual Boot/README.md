@@ -1,5 +1,5 @@
-Se você é um usuário que precisa ter dual boot em seu sistema e usa Arch Linux, deve ter percebido que o Arch não faz o reconhecimento automatico de outros sistemas e integra tudo ao GRUB.
-Vamos resolver esse problema.
+Se você é um usuário que precisa ter dual boot em seu sistema e usa Arch Linux, deve ter percebido que o Arch não faz o reconhecimento automatico de outros sistemas e integra tudo ao GRUB.  
+Vamos resolver esse problema.  
 Lembrando que esse tutorial é para o GRUB!
 # 1
 Instale os seguintes pacotes:
