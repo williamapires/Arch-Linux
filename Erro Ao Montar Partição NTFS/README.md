@@ -1,4 +1,4 @@
-# Como resolver quando seu HD externo ou interno em NFTS não quer montar e apresenta alguma mensagem de erro:
+Como resolver quando seu HD externo ou interno em NFTS não quer montar e apresenta alguma mensagem de erro:
 
 ## 1
 
