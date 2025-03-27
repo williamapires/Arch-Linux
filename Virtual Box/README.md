@@ -9,6 +9,7 @@ Depois é só reiniciar e sistema e tudo vai funcionar.
 Para quem usa kernel zen:
 
 ```
+sudo pacman -S virtualbox-host-dkms virtualbox
 sudo pacman -S virtualbox virtualbox-guest-iso
 yay -S linux-zen-headers virtualbox-ext-oracle #skip zen-headers if you use generic kernel
 sudo gpasswd -a $USER vboxusers
